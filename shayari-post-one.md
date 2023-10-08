@@ -1,10 +1,12 @@
 ---
-title: Your Blog Post Title
-date: YYYY-MM-DD
+Title: اپنی آنکھوں میں
+Date: 2023-10-08
 ---
 
-# Your Blog Post Title
+# اپنی آنکھوں میں
 
-Author: Your Name
+Author: کاشف سعید جدون
 
-Your blog post content goes here.
+اپنی آنکھوں میں قمر! جھانک کے کیسے دیکھوں؟
+
+مجھ سے دیکھے ہوۓ منظر نہیں دیکھے جاتے
